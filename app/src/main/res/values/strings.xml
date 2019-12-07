@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">Weather</string>
+    <string name="mainInfo">32\u00B0C</string>
+    <string name="Location">Russia,Ufa</string>
+    <string name="info">SUNNY</string>
+    <string name="FirstInfo">78</string>
+    <string name="wind_flow">Wind Flow</string>
+    <string name="secondInfo">52</string>
+    <string name="thirdInfo">89</string>
+    <string name="humidity">Humidity</string>
+    <string name="preception">Preception</string>
+</resources>
